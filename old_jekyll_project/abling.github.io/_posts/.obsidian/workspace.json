@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "1c30e3c4241e807e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a16903b10d3f9a70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d992c266690738e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7c91b030025d6d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae2cf64e57ad720b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be009b946cf6f038",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "52af144878446b1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "59cae3f7ca0c0747",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "50b834110e7a0a04",
+    "type": "split",
+    "children": [
+      {
+        "id": "6795d51ff0282d9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1c6f28671ad4ac2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-12-15-why.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2024-12-15-why 的反向链接列表"
+            }
+          },
+          {
+            "id": "2b29d3bbd78b6466",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-12-15-why.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2024-12-15-why 的出链列表"
+            }
+          },
+          {
+            "id": "c6f311de5b4814c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "67990e40873760af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-12-15-why.md"
+              },
+              "icon": "lucide-list",
+              "title": "2024-12-15-why 的大纲"
+            }
+          },
+          {
+            "id": "3c0c867e62642ddc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3c0c867e62642ddc",
+  "lastOpenFiles": [
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "2025-01-06-spring.md",
+    "2024-12-11-techstrack.md",
+    "2024-12-09-wait.md",
+    "2017-04-18-new-theme-h2o.md",
+    "2024-10-10-feelings.md",
+    "2024-12-11-glory4thdebate.md",
+    "2024-12-15-why.md",
+    "2024-10-05-helloworld.md",
+    "2025-01-01-happynewyear.md",
+    "2024-10-06-HowToDebate.md"
+  ]
+}
