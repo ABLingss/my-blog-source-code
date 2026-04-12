@@ -17,10 +17,7 @@ tags: 随便聊聊
 >    新的一年，我祝大家一切顺利。
 > 
 
-<figure>
-  <img src="https://www.helloimg.com/i/2025/01/01/677417be3f279.jpg" alt="胶片" width="700" height="200">
-  <figcaption>为了道别的聚会</figcaption>
-</figure>
+*为了道别的聚会。*
 
 
 ### 【瞬间】
@@ -33,10 +30,7 @@ tags: 随便聊聊
 
 就像那个没有太远的暑假，我的记忆已经全部困在8月西安地铁的燥热中，只剩下几个瞬间让我管窥。有人说，中国式教育就是蝉的一生——埋在图里17年，然后趴在树上叫三个月，然后去死。我没有鸣叫的记忆，却感到压在我头上的土越来越厚，我钻不出，我也不想出去。
 
-<figure>
-  <img src="https://www.helloimg.com/i/2025/01/01/6774183ec582b.jpg" alt="倒计时" width="360" height="220">
-  <figcaption>拍毕业照的日子</figcaption>
-</figure>
+*拍毕业照的日子。*
 
 
 我还记得几个对话
@@ -51,10 +45,7 @@ tags: 随便聊聊
 
 考完英语，铃声响起，广播里说“考试结束，请考生起立，停止作答”，走出考场大门，我接到那束向日葵的时候，我知道，一些事永远的改变了，我也不再是小孩子。
 
-<figure>
-  <img src="https://www.helloimg.com/i/2025/01/01/67741f72cd9d2.jpg" alt="西安钟楼" width="500" height="300">
-  <figcaption>离开的时候才有点怀念</figcaption>
-</figure>
+*离开的时候才有点怀念。*
 
 
 
@@ -66,21 +57,14 @@ tags: 随便聊聊
 
 但是至少我希望，明年，脱离高考桎梏的我能表达我自己真实的感情，不做虚伪的人，不做骗自己的人；不爱抽象的人，而是爱具体的人；为自己的每一句话和每一个动作负责，我想成为一个真正的人。
 
-<figure>
-  <img src="https://www.helloimg.com/i/2025/01/01/67741f71b9a8a.jpg" alt="黄昏蓝色戏剧" width="500" height="300">
-  <figcaption>黄昏蓝色戏剧</figcaption>
-</figure>
+*黄昏蓝色戏剧。*
 
 ### 【碎碎念】
 
-<figure>
-  <img src="https://www.helloimg.com/i/2025/01/01/677417bf2c891.jpg" alt="猫猫" width="500" height="300">
-  <figcaption>猫猫</figcaption>
-</figure>
+*猫猫。*
 
 不管你什么时候读到这段话，我都希望你能在这个新的一年里，好好地爱自己，好好地爱自己，好好地爱自己。
 
 谢谢你窥见我心的一隅，谢谢你陪我走过阅读的这两分钟。我想让你知道，未来的日子，我会好好陪着你，所以你也要好好幸福。
-
 
 

@@ -304,4 +304,4 @@ tags: 辩论
 
 
 ## 辅助轮
-- 方便的四辩稿模板https://www.bilibili.com/video/BV15N411a7FN/?vd_source=0ef48813ff1b3337d4dd29576bfebceb
+- [方便的四辩稿模板](https://www.bilibili.com/video/BV15N411a7FN/)

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">ABLingss page banner</title>
+  <desc id="desc">Abstract subpage banner with structured lines and a darker gradient.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#101826" />
+      <stop offset="50%" stop-color="#1b2a41" />
+      <stop offset="100%" stop-color="#27455c" />
+    </linearGradient>
+    <radialGradient id="wash" cx="72%" cy="18%" r="50%">
+      <stop offset="0%" stop-color="#67e8f9" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#67e8f9" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="dots" width="44" height="44" patternUnits="userSpaceOnUse">
+      <circle cx="6" cy="6" r="1.2" fill="#dbeafe" fill-opacity="0.15" />
+    </pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)" />
+  <rect width="1600" height="900" fill="url(#wash)" />
+  <rect width="1600" height="900" fill="url(#dots)" />
+  <g fill="none" stroke-linecap="round">
+    <path d="M 0 190 L 360 190 L 430 255 L 720 255 L 845 360 L 1240 360" stroke="#93c5fd" stroke-opacity="0.24" stroke-width="3" />
+    <path d="M 160 620 L 500 620 L 650 520 L 980 520 L 1135 410 L 1460 410" stroke="#99f6e4" stroke-opacity="0.22" stroke-width="3" />
+    <path d="M 1260 120 L 1380 120 L 1450 185" stroke="#fde68a" stroke-opacity="0.24" stroke-width="3" />
+    <path d="M 260 330 C 420 280 520 290 630 250 C 740 210 830 150 1040 160" stroke="#f0abfc" stroke-opacity="0.18" stroke-width="2.5" />
+  </g>
+  <g fill="#f8fafc" fill-opacity="0.82">
+    <circle cx="360" cy="190" r="6" />
+    <circle cx="720" cy="255" r="6" />
+    <circle cx="1240" cy="360" r="6" />
+    <circle cx="500" cy="620" r="6" />
+    <circle cx="980" cy="520" r="6" />
+    <circle cx="1460" cy="410" r="6" />
+  </g>
+  <g stroke="#ffffff" stroke-opacity="0.08" stroke-width="1">
+    <path d="M 1085 150 L 1380 150" />
+    <path d="M 1120 190 L 1340 190" />
+    <path d="M 1160 230 L 1300 230" />
+  </g>
+</svg>

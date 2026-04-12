@@ -4,16 +4,21 @@
 
 # Site
 title: 码农日常这一块
-subtitle: ''
-description: ''
+subtitle: 'Compiler, MLSys, CV, and LLM Engineering'
+description: 'ABLingss 的个人博客，记录编译器、机器学习系统、计算机视觉与大模型工程实践。'
 keywords:
+  - ABLingss
+  - Compiler
+  - MLSys
+  - Computer Vision
+  - LLM
 author: ABLingss
-language: zh
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://ablingss.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -96,7 +101,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: shoka
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
