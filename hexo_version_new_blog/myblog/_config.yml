@@ -111,19 +111,37 @@ deploy:
   branch: main
 
 markdown:
-  render: 'multi-markdown-it'
-
-multi_markdown_it:
-  plugins:
-    - markdown-it-footnote
-    - markdown-it-deflist
-    - markdown-it-abbr
-    - markdown-it-ins
-    - markdown-it-mark
-    - markdown-it-sub
-    - markdown-it-sup
-    - markdown-it-task-lists
-  options:
+  render:
     html: true
     linkify: true
     breaks: true
+  plugins:
+    - plugin:
+        name: markdown-it-footnote
+        enable: true
+    - plugin:
+        name: markdown-it-deflist
+        enable: true
+    - plugin:
+        name: markdown-it-abbr
+        enable: true
+    - plugin:
+        name: markdown-it-ins
+        enable: true
+    - plugin:
+        name: markdown-it-mark
+        enable: true
+    - plugin:
+        name: markdown-it-sub
+        enable: true
+    - plugin:
+        name: markdown-it-sup
+        enable: true
+    - plugin:
+        name: markdown-it-task-checkbox
+        enable: true
+    - plugin:
+        name: ./markdown-it-katex
+        enable: true
+        options:
+          throwOnError: false
