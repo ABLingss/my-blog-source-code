@@ -3,16 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 码农日常这一块
-subtitle: 'Compiler, MLSys, CV, and LLM Engineering'
-description: 'ABLingss 的个人博客，记录编译器、机器学习系统、计算机视觉与大模型工程实践。'
+title: ABLingss
+subtitle: 'Compiler · MLSys · CV · LLM Engineering'
+description: 'Yingzhe Ma (ABLingss) 的个人学术博客。记录编译器、机器学习系统、计算机视觉与大模型工程实践。'
 keywords:
+  - Yingzhe Ma
   - ABLingss
   - Compiler
   - MLSys
   - Computer Vision
   - LLM
-author: ABLingss
+  - AI Infrastructure
+  - UESTC
+author: Yingzhe Ma (ABLingss)
 language: zh-CN
 timezone: ''
 
@@ -141,7 +144,7 @@ markdown:
         name: markdown-it-task-checkbox
         enable: true
     - plugin:
-        name: ./markdown-it-katex
+        name: markdown-it-katex
         enable: true
         options:
           throwOnError: false

@@ -1,40 +1,77 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
   <title id="title">ABLingss page banner</title>
-  <desc id="desc">Abstract subpage banner with structured lines and a darker gradient.</desc>
+  <desc id="desc">Academic subpage banner with structured layout, node connections, and clean gradients.</desc>
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#101826" />
-      <stop offset="50%" stop-color="#1b2a41" />
-      <stop offset="100%" stop-color="#27455c" />
+      <stop offset="0%" stop-color="#0f1a2e" />
+      <stop offset="50%" stop-color="#1b2d4a" />
+      <stop offset="100%" stop-color="#14223b" />
     </linearGradient>
-    <radialGradient id="wash" cx="72%" cy="18%" r="50%">
-      <stop offset="0%" stop-color="#67e8f9" stop-opacity="0.22" />
-      <stop offset="100%" stop-color="#67e8f9" stop-opacity="0" />
+    <radialGradient id="wash" cx="70%" cy="25%" r="45%">
+      <stop offset="0%" stop-color="#7dd3fc" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#7dd3fc" stop-opacity="0" />
     </radialGradient>
-    <pattern id="dots" width="44" height="44" patternUnits="userSpaceOnUse">
-      <circle cx="6" cy="6" r="1.2" fill="#dbeafe" fill-opacity="0.15" />
+    <pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="1" fill="#cbd5e1" fill-opacity="0.10" />
     </pattern>
   </defs>
   <rect width="1600" height="900" fill="url(#bg)" />
   <rect width="1600" height="900" fill="url(#wash)" />
   <rect width="1600" height="900" fill="url(#dots)" />
+  <!-- Abstract tree / hierarchy structure -->
   <g fill="none" stroke-linecap="round">
-    <path d="M 0 190 L 360 190 L 430 255 L 720 255 L 845 360 L 1240 360" stroke="#93c5fd" stroke-opacity="0.24" stroke-width="3" />
-    <path d="M 160 620 L 500 620 L 650 520 L 980 520 L 1135 410 L 1460 410" stroke="#99f6e4" stroke-opacity="0.22" stroke-width="3" />
-    <path d="M 1260 120 L 1380 120 L 1450 185" stroke="#fde68a" stroke-opacity="0.24" stroke-width="3" />
-    <path d="M 260 330 C 420 280 520 290 630 250 C 740 210 830 150 1040 160" stroke="#f0abfc" stroke-opacity="0.18" stroke-width="2.5" />
+    <path d="M 800 140 L 800 260" stroke="#60a5fa" stroke-opacity="0.30" stroke-width="2" />
+    <path d="M 800 260 L 520 380" stroke="#60a5fa" stroke-opacity="0.20" stroke-width="1.5" />
+    <path d="M 800 260 L 1080 380" stroke="#60a5fa" stroke-opacity="0.20" stroke-width="1.5" />
+    <path d="M 520 380 L 320 520" stroke="#60a5fa" stroke-opacity="0.15" stroke-width="1" />
+    <path d="M 520 380 L 720 520" stroke="#60a5fa" stroke-opacity="0.15" stroke-width="1" />
+    <path d="M 1080 380 L 880 520" stroke="#60a5fa" stroke-opacity="0.15" stroke-width="1" />
+    <path d="M 1080 380 L 1280 520" stroke="#60a5fa" stroke-opacity="0.15" stroke-width="1" />
   </g>
-  <g fill="#f8fafc" fill-opacity="0.82">
-    <circle cx="360" cy="190" r="6" />
-    <circle cx="720" cy="255" r="6" />
-    <circle cx="1240" cy="360" r="6" />
-    <circle cx="500" cy="620" r="6" />
-    <circle cx="980" cy="520" r="6" />
-    <circle cx="1460" cy="410" r="6" />
+  <g fill="#60a5fa" fill-opacity="0.30">
+    <circle cx="800" cy="140" r="8" />
+    <circle cx="800" cy="260" r="6" />
+    <circle cx="520" cy="380" r="5" />
+    <circle cx="1080" cy="380" r="5" />
+    <circle cx="320" cy="520" r="4" />
+    <circle cx="720" cy="520" r="4" />
+    <circle cx="880" cy="520" r="4" />
+    <circle cx="1280" cy="520" r="4" />
   </g>
-  <g stroke="#ffffff" stroke-opacity="0.08" stroke-width="1">
-    <path d="M 1085 150 L 1380 150" />
-    <path d="M 1120 190 L 1340 190" />
-    <path d="M 1160 230 L 1300 230" />
+  <!-- Abstract bar chart -->
+  <g fill="none" stroke-linecap="round" stroke-width="2">
+    <path d="M 280 680 L 280 640" stroke="#a78bfa" stroke-opacity="0.25" />
+    <path d="M 340 680 L 340 580" stroke="#a78bfa" stroke-opacity="0.25" />
+    <path d="M 400 680 L 400 610" stroke="#a78bfa" stroke-opacity="0.25" />
+    <path d="M 460 680 L 460 540" stroke="#a78bfa" stroke-opacity="0.25" />
+    <path d="M 520 680 L 520 600" stroke="#a78bfa" stroke-opacity="0.25" />
+    <path d="M 580 680 L 580 560" stroke="#a78bfa" stroke-opacity="0.25" />
+    <path d="M 640 680 L 640 520" stroke="#a78bfa" stroke-opacity="0.25" />
+    <path d="M 700 680 L 700 590" stroke="#a78bfa" stroke-opacity="0.25" />
+    <path d="M 280 680 L 700 680" stroke="#a78bfa" stroke-opacity="0.15" stroke-width="1" />
+  </g>
+  <!-- Right-side abstract waveform -->
+  <g fill="none" stroke-linecap="round" stroke-width="2">
+    <path d="M 980 580 C 1020 540, 1060 620, 1100 560 S 1160 640, 1200 570 S 1260 650, 1300 590" stroke="#7dd3fc" stroke-opacity="0.25" />
+    <path d="M 980 640 C 1020 600, 1060 680, 1100 620 S 1160 700, 1200 630 S 1260 710, 1300 650" stroke="#a78bfa" stroke-opacity="0.15" stroke-width="1.5" />
+  </g>
+  <!-- Paper/document decoration -->
+  <g stroke="#e0e7ff" stroke-opacity="0.07" stroke-width="0.8">
+    <rect x="175" y="125" width="120" height="160" rx="2" />
+    <line x1="190" y1="155" x2="280" y2="155" />
+    <line x1="190" y1="175" x2="260" y2="175" />
+    <line x1="190" y1="195" x2="270" y2="195" />
+    <line x1="190" y1="215" x2="250" y2="215" />
+  </g>
+  <!-- Code-like annotations -->
+  <g fill="#cbd5e1" fill-opacity="0.08" font-family="'Courier New', monospace" font-size="16">
+    <text x="1320" y="160">def forward():</text>
+    <text x="1320" y="182">    return loss</text>
+  </g>
+  <!-- Horizontal rule decoration -->
+  <g stroke="#ffffff" stroke-opacity="0.05" stroke-width="1">
+    <path d="M 1200 130 L 1480 130" />
+    <path d="M 1150 160 L 1450 160" />
+    <path d="M 1240 190 L 1400 190" />
   </g>
 </svg>
