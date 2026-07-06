@@ -991,9 +991,10 @@ about:
   banner_img: /img/banner-page.svg
   banner_img_height: 60
   banner_mask_alpha: 0.3
-  avatar: /img/avatar.jpg
+  avatar: /img/avatar.png
   name: "ABLingss"
   intro: "Compiler · MLSys · CV · LLM Engineering"
+  icons: []
 
 
 #---------------------------
