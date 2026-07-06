@@ -989,21 +989,17 @@ tag:
 about:
   enable: true
   title: "About"
-  subtitle: "Yingzhe Ma · Undergraduate Researcher"
+  subtitle: "Researcher"
   banner_img: /img/banner-page.svg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   avatar: /img/avatar.jpg
-  name: "Yingzhe Ma (ABLingss)"
-  intro: "UESTC undergraduate researcher in compiler, MLSys, CV, and LLM engineering. First-author papers @ NeurIPS / MICCAI 2026. Open-source contributor to HeartMuLa (4.2k+ ★)."
+  name: "ABLingss"
+  intro: "Compiler · MLSys · CV · LLM Engineering"
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com/ABLingss", tip: "GitHub" }
     - { class: "iconfont icon-home-fill", link: "https://ablingss.github.io/", tip: "Homepage" }
-    - { class: "iconfont icon-link-fill", link: "https://scholar.google.com/citations?user=bhdoCtYAAAAJ", tip: "Google Scholar" }
-    - { class: "iconfont icon-link-fill", link: "https://arxiv.org/abs/2601.10547", tip: "HeartMuLa arXiv" }
-    - { class: "iconfont icon-link-fill", link: "https://github.com/ABLingss/NeuroVision", tip: "NeuroVision" }
-    - { class: "iconfont icon-envelope-fill", link: "mailto:ablingsss@163.com", tip: "Email" }
 
 
 #---------------------------
@@ -1049,32 +1045,20 @@ links:
   items:
     - {
       title: "HeartMuLa / heartlib",
-      intro: "开源音乐基础模型，4.2k+ ★，支持歌词到完整歌曲生成。设计了 AR streaming 推理管线。",
+      intro: "开源音乐基础模型，支持歌词到完整歌曲生成。",
       link: "https://github.com/HeartMuLa/heartlib",
       avatar: "https://github.com/HeartMuLa.png"
     }
     - {
-      title: "HeartMuLa arXiv",
-      intro: "技术报告：开源音乐基础模型家族，质量可媲美 Suno。",
-      link: "https://arxiv.org/abs/2601.10547",
-      avatar: "https://github.com/HeartMuLa.png"
-    }
-    - {
       title: "NeuroVision",
-      intro: "眼底图像分析项目，YOLOv12 改进 + 图像增强。全国二等奖。",
+      intro: "眼底图像分析项目。",
       link: "https://github.com/ABLingss/NeuroVision",
       avatar: "https://github.com/ABLingss.png"
     }
     - {
       title: "SysY Compiler",
-      intro: "SysY→LLVM IR→RISC-V/ARM 优化编译器。LICM, SCCP, GVN-PRE 等 Pass 实现。>3× 加速。",
+      intro: "SysY→LLVM IR→RISC-V/ARM 优化编译器。",
       link: "https://github.com/ABLingss",
-      avatar: "https://github.com/ABLingss.png"
-    }
-    - {
-      title: "Google Scholar",
-      intro: "论文与学术主页（6 篇 NeurIPS/MICCAI/ACM MM 2026 审稿中）",
-      link: "https://scholar.google.com/citations?user=bhdoCtYAAAAJ",
       avatar: "https://github.com/ABLingss.png"
     }
     - {

@@ -64,12 +64,6 @@
     <path d="M 920 580 C 980 520, 1020 640, 1080 540 S 1180 620, 1240 500 S 1340 680, 1440 520" stroke="#a78bfa" stroke-opacity="0.30" />
     <path d="M 920 630 C 980 570, 1020 690, 1080 590 S 1180 670, 1240 550 S 1340 730, 1440 570" stroke="#7dd3fc" stroke-opacity="0.20" stroke-width="1.5" />
   </g>
-  <!-- Text annotations for academic vibe -->
-  <g fill="#e0e7ff" fill-opacity="0.12" font-family="'Courier New', monospace" font-size="22">
-    <text x="105" y="780">arXiv:2601.10547</text>
-    <text x="105" y="815">NeurIPS 2026</text>
-    <text x="105" y="850">MICCAI 2026</text>
-  </g>
   <!-- Right-side abstract code lines -->
   <g stroke="#ffffff" stroke-opacity="0.06" stroke-width="1">
     <path d="M 1250 130 L 1480 130" />
