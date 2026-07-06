@@ -6,15 +6,9 @@ comments: false
 
 ## ABLingss
 
-Undergraduate researcher in **Machine Learning Systems, AI Compilers, Computer Vision, and Audio Generation**.
+Researcher in **Machine Learning Systems, AI Compilers, Computer Vision, and Audio Generation**.
 
 I care about building systems that work — efficient inference, compiler optimizations, and reproducible research.
-
----
-
-## Education
-
-**University of Electronic Science and Technology of China (UESTC)** — Sept 2024 – Present
 
 ---
 
@@ -27,19 +21,13 @@ I care about building systems that work — efficient inference, compiler optimi
 
 ---
 
-## Technical Strengths
+## About This Blog
 
-| Area | Technologies |
-|------|------------|
-| **ML Systems & Inference** | CUDA (shared memory, thread blocks), CUDA Graph, Triton, FlashAttention, vLLM, ONNX Runtime, INT8/PTQ, KV-cache optimization, NCCL, Ray |
-| **Compilers & Systems** | LLVM IR passes (loop/SSA/scalar), MLIR, TVM AutoScheduler, Clang LibTooling, Flex/Bison |
-| **Programming** | C/C++ (CMake), Python, PyTorch, Transformers |
+技术文章和随笔分区分明。技术类别下的内容力求有据可查；生活类别纯属个人记录，请勿过度解读。
 
 ---
 
 ## Contact
 
 - **GitHub:** [@ABLingss](https://github.com/ABLingss)
-- **Google Scholar:** [Yingzhe Ma](https://scholar.google.com/citations?user=bhdoCtYAAAAJ)
-- **Email:** [ablingsss@163.com](mailto:ablingsss@163.com)
 - **Homepage:** [https://ablingss.github.io/](https://ablingss.github.io/)

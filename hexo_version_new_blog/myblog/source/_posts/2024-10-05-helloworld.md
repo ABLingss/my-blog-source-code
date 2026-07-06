@@ -3,7 +3,7 @@ layout: post
 title: '欢迎你！'
 subtitle: '也许是第一篇自己的文章？'
 date: 2024-10-05
-categories: 技术
+categories: 生活
 tags: 随便聊聊
 ---
 # 欢迎你来到我的博客

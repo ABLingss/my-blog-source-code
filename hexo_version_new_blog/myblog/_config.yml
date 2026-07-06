@@ -5,17 +5,14 @@
 # Site
 title: ABLingss
 subtitle: 'Compiler · MLSys · CV · LLM Engineering'
-description: 'Yingzhe Ma (ABLingss) 的个人学术博客。记录编译器、机器学习系统、计算机视觉与大模型工程实践。'
+description: '技术博客。记录编译器、机器学习系统、计算机视觉与大模型工程实践。'
 keywords:
-  - Yingzhe Ma
-  - ABLingss
   - Compiler
   - MLSys
   - Computer Vision
   - LLM
   - AI Infrastructure
-  - UESTC
-author: Yingzhe Ma (ABLingss)
+author: ABLingss
 language: zh-CN
 timezone: ''
 

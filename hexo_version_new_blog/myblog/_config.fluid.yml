@@ -444,15 +444,9 @@ open_graph:
 footer:
   # 页脚第一行文字的 HTML
   content: '
-    <span>ABLingss · Yingzhe Ma</span>
-    <span>&nbsp;|&nbsp;</span>
     <a href="https://ablingss.github.io" target="_blank" rel="nofollow noopener"><span>Home</span></a>
     <span>&nbsp;|&nbsp;</span>
-    <a href="https://scholar.google.com/citations?user=bhdoCtYAAAAJ" target="_blank" rel="nofollow noopener"><span>Google Scholar</span></a>
-    <span>&nbsp;|&nbsp;</span>
     <a href="https://github.com/ABLingss" target="_blank" rel="nofollow noopener"><span>GitHub</span></a>
-    <span>&nbsp;|&nbsp;</span>
-    <a href="https://github.com/HeartMuLa/heartlib" target="_blank" rel="nofollow noopener"><span>HeartMuLa</span></a>
     <i class="iconfont icon-love"></i>
     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
     <i class="iconfont icon-love"></i>
@@ -513,7 +507,6 @@ index:
       - "Compiler · MLSys · CV · LLM Engineering"
       - "把学习、实验和系统实现都写下来。"
       - "Interested in research, but grounded in code."
-      - "6 papers @ NeurIPS / MICCAI / ACM MM 2026"
 
     # 通过 API 接口作为首页副标题的内容，必须返回的是 JSON 格式，如果请求失败则按 text 字段显示，该功能必须先开启 typing 打字机功能
     # Subtitle of the homepage through the API, must be returned a JSON. If the request fails, it will be displayed in `text` value. This feature must first enable the typing animation
