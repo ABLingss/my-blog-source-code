@@ -4,6 +4,7 @@ title: '神一样的四辩合集'
 subtitle: '可以抄结构哦'
 date: 2024-12-11
 categories: 生活
+description: '詹青云、蒋昌建、黄执中、胡渐彪经典结辩稿摘抄。'
 tags: 辩论
 ---
 

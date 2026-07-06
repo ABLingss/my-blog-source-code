@@ -4,6 +4,7 @@ title: Three Go Games of Life
 subtitle: " Opening, Middle Game, and Endgame"
 date: 2025-03-23
 categories: 生活
+description: 'Just as a Go board has 361 possibilities, my life has been shaped by calculated moves, unexpected setbacks, and unbreakable friendship.'
 tags:
   - 创作
   - 演讲

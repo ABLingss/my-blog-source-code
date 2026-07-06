@@ -4,6 +4,7 @@ title: MusicGen 技术路线回顾：YuE、DiffRhythm、ACE-Step 1.5、LeVo 与 
 subtitle: 从纯自回归到纯扩散，再到混合架构与偏好对齐
 date: 2026-04-13
 categories: 技术
+description: 'YuE、DiffRhythm、ACE-Step 1.5、LeVo 2 / SongGeneration 2、Muse，到底分别代表了 music generation 的哪条技术路线？'
 tags:
   - 音乐生成
   - AIGC
