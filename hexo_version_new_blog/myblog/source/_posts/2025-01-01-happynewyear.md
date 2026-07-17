@@ -3,7 +3,7 @@ layout: post
 title: '我的一些话，写在2024的最后一个小时'
 subtitle: '为了道别的聚会'
 date: 2025-01-01
-categories: 生活
+categories: 随笔
 description: '人活一辈子，最重要的事情就是活下去。能活下去，已经是最伟大的成功。'
 tags: 随便聊聊
 ---
