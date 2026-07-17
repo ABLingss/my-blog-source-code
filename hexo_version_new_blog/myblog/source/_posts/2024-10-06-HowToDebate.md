@@ -1,7 +1,6 @@
 ---
 layout: post
 title: '怎么打辩论'
-subtitle: '不学的话，你会打的跟那什么似的'
 date: 2024-10-06
 categories: 辩论
 description: '辩论方法论笔记：辩题分类、立论、攻防、三段论逻辑与常见谬误。'
